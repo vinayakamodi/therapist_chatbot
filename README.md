@@ -19,7 +19,7 @@ Before running this project, ensure you have Python installed and your AWS crede
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/aws-bedrock-chatbot.git
+git clone https://github.com/vinayakamodi/therapist_chatbot.git
 cd aws-bedrock-chatbot
 pip install -r requirements.txt
 ```
