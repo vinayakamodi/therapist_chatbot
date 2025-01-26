@@ -22,3 +22,26 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/yourusername/aws-bedrock-chatbot.git
 cd aws-bedrock-chatbot
 pip install -r requirements.txt
+
+### Configuration
+
+Set up your AWS credentials and configure your default region. Ensure you have the necessary permissions to access AWS Bedrock services.
+
+### Running the Chatbot
+
+Navigate to the source directory and run the chatbot:
+
+```bash
+cd src
+python chatbot.py
+
+## License
+
+
+This `README.md` provides a comprehensive overview of your chatbot project, including how to set it up, run it, and contribute to its development. Make sure to adjust the repository URL and any specific instructions based on your setup or additional features you might add later on.
+
+
+
+
+
+
