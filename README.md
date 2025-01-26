@@ -20,9 +20,12 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/vinayakamodi/therapist_chatbot.git
-cd aws-bedrock-chatbot
+cd therapist_chatbot
 pip install -r requirements.txt
 ```
+### Add AWS keys from mail
+
+Mention the AWS keys in the chatbot.py code before proceeding
 
 ### Configuration
 
